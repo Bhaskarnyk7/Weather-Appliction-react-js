@@ -1,0 +1,35 @@
+.bg{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 100vh;
+  width: auto;
+  background-color: aqua;
+  display: flex;
+align-items: center;
+justify-content: center;
+/* background-image: url(nature.jpg); */
+background-repeat: no-repeat; 
+ background-size: cover; 
+}
+.bg .main{
+ height: 300px;
+ width: 300px;
+ /* background-color: blanchedalmond; */
+   
+ background-image: url(nature.jpg);
+ background-repeat: no-repeat;
+background-size: cover;
+padding: 30px; 
+border-radius: 10px; 
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 20px;
+
+
+}
+.bg .main .in{
+ 
+  
+}
